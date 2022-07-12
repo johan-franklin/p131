@@ -1,0 +1,16 @@
+body {
+    background-position: center;
+    background-size: cover;
+  }
+
+  a {
+    font-size: 20px;
+    width: 400px;
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+}
+
+button{
+  color: aqua;
+}
